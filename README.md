@@ -1,9 +1,6 @@
 <div align="center">
   <h1>
-    <br />
-    <a href="https://rambox.pro"><img src="./resources/Icon.png" width="256px" alt="Rambox" /></a><br />
-    Rambox CE
-    <br /><br/>
+
   </h1>
 
   <h4>Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.</h4>
